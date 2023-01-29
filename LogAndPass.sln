@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAndPass", "LogAndPass\LogAndPass.csproj", "{654BFEB9-A14B-41EB-95AE-4A9A92172061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654BFEB9-A14B-41EB-95AE-4A9A92172061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654BFEB9-A14B-41EB-95AE-4A9A92172061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654BFEB9-A14B-41EB-95AE-4A9A92172061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654BFEB9-A14B-41EB-95AE-4A9A92172061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFC469C5-95DF-4F2F-880E-9EF7521D41D4}
+	EndGlobalSection
+EndGlobal
